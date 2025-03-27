@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate for **hackathons**
 
-- 🤝 I’m looking for help in my college **AI Project**
+- 🤝 I’m looking for help in my college **AI Project**                               
 
 - 📝 I regularly solve question on [leetcode](leetcode)
 
