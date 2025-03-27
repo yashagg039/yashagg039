@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm YASH Aggarwal</h1>
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/d82a987c-5651-4dcd-916f-4e7a2fd32f6d)
+<h1 align="center">Hi 👋, I'm YASH AGGARWAL</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
 - 🔭 I’m currently working on **my website**
