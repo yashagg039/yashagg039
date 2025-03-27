@@ -1,3 +1,4 @@
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/f3b51800-ce6a-4cb5-9ad9-f130e60a8038)
 <h1 align="center">Hi 👋, I'm YASH Aggarwal</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
